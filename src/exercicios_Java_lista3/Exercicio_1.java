@@ -1,4 +1,4 @@
-package Exercicios_Java_lista3;
+package exercicios_Java_lista3;
 
 public class Exercicio_1 {
 
